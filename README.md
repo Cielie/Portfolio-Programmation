@@ -1,2 +1,2 @@
 # Portfolio-Programmation
-Lien des repos des meilleurs projets EPITECH
+Lien des repertoires de mes meilleurs projets EPITECH
